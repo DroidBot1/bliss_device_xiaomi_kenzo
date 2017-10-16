@@ -1,2 +1,2 @@
-add_lunch_combo inv_kenzo-userdebug
-add_lunch_combo inv_kenzo-eng
+add_lunch_combo bliss_kenzo-userdebug
+add_lunch_combo bliss_kenzo-eng
